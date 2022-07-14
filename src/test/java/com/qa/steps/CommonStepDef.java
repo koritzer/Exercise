@@ -1,13 +1,10 @@
-package com.noorteck.qa.steps;
+package com.qa.steps;
 
 import java.util.List;
 import java.util.Map;
 
-import com.noorteck.qa.utils.CommonLibrary;
-
-//import org.testng.Assert;
-
-import com.noorteck.qa.utils.CommonUI;
+import com.koritzer.qa.utils.CommonLibrary;
+import com.koritzer.qa.utils.CommonUI;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;

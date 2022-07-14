@@ -1,4 +1,4 @@
-package com.noorteck.qa.runners;
+package com.qa.runners;
 
 import org.junit.runner.RunWith;
 
@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue = { "com.noorteck.qa.steps" }, 
 		plugin = { "pretty", "html:target/cucumber.html",
 				"json:target/cucumber.json" }, 
-		//tags ="@sit",
+		//tags ="@scrum",
 		monochrome = true
 
 )

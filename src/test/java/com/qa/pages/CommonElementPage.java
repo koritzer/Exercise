@@ -1,10 +1,10 @@
-package com.noorteck.qa.pages;
+package com.qa.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.noorteck.qa.utils.CommonUI;
+import com.koritzer.qa.utils.CommonUI;
 
 public class CommonElementPage extends CommonUI {
 

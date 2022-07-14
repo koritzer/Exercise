@@ -1,4 +1,4 @@
-package com.noorteck.qa.utils;
+package com.koritzer.qa.utils;
 
 import org.apache.commons.lang.RandomStringUtils;
 

@@ -1,4 +1,4 @@
-package com.noorteck.qa.utils;
+package com.koritzer.qa.utils;
 
 import java.util.concurrent.TimeUnit;
 
@@ -19,7 +19,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
  * In this class we will create all common method that will be used when
  * interacting with UI
  * 
- * @author NoorTeck
+ * 
  *
  */
 public class CommonUI extends ObjInitialize {
@@ -95,7 +95,7 @@ public class CommonUI extends ObjInitialize {
 	}
 
 	/**
-	 * This method takes 1 webelement parameter and checks wether it is
+	 * This method takes 1 webelement parameter and checks whether it is
 	 * displayed/not
 	 * 
 	 * @param element
@@ -116,7 +116,7 @@ public class CommonUI extends ObjInitialize {
 	}
 
 	/**
-	 * This method takes 1 webelement parameter and checks wether it is enabled or
+	 * This method takes 1 webelement parameter and checks whether it is enabled or
 	 * not
 	 * 
 	 * @param element
@@ -137,7 +137,7 @@ public class CommonUI extends ObjInitialize {
 	}
 
 	/**
-	 * This method takes 1 webelement parameter and checks wether it is selected/not
+	 * This method takes 1 webelement parameter and checks whether it is selected/not
 	 * 
 	 * @param element
 	 * @return
@@ -250,7 +250,7 @@ public class CommonUI extends ObjInitialize {
 	}
 
 	/**
-	 * This method cheks if alert is present or not
+	 * This method checks if alert is present or not
 	 * 
 	 * @return
 	 */

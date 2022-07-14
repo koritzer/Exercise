@@ -1,13 +1,13 @@
-package com.noorteck.qa.utils;
+package com.koritzer.qa.utils;
 
 import org.openqa.selenium.WebDriver;
 
-import com.noorteck.qa.pages.CommonElementPage;
-import com.noorteck.qa.pages.JobTitlesPage;
-import com.noorteck.qa.pages.LoginPage;
-import com.noorteck.qa.pages.MenuPage;
-import com.noorteck.qa.pages.SalaryComponentsPage;
-import com.noorteck.qa.pages.SkillsPage;
+import com.qa.pages.CommonElementPage;
+import com.qa.pages.JobTitlesPage;
+import com.qa.pages.LoginPage;
+import com.qa.pages.MenuPage;
+import com.qa.pages.SalaryComponentsPage;
+import com.qa.pages.SkillsPage;
 
 import io.restassured.path.json.JsonPath;
 
@@ -15,7 +15,7 @@ import io.restassured.path.json.JsonPath;
 
 /**
  * In this class we declare our objects that will be shared among different classes
- * @author NoorTeck
+ *
  *
  */
 public class Constants {

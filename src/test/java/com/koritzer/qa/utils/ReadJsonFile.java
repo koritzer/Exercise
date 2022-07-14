@@ -1,4 +1,4 @@
-package com.noorteck.qa.utils;
+package com.koritzer.qa.utils;
 
 import java.io.FileInputStream;
 import io.restassured.path.json.JsonPath;
